@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, we´re Big Nodes</h1>
 <h3 align="center">The best programmers in the world</h3>
 
+- 🔭 We´re currently working on [BigBlogify](https://github.com/BigNodes/uap-blog)
 - ⚡ Fun fact **Floppa**
 
-<h3 align="left">Connect with me:</h3>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <p align="left">
 </p>
 
