@@ -10,8 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dest92&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 
-![](https://github-readme-stats.vercel.app/api?username=tomasweigenast&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tomasweigenast&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tomasweigenast&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tomasweigenast&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasweigenast&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=MatiDLF-dev&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
