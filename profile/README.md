@@ -15,6 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=MatiDLF-dev&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiDLF-dev&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=Alex87464&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex87464&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
  - Random dev quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
