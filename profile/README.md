@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, we´re Big Nodes</h1>
-<h3 align="center">The best programmers in the world</h3>
+<h3 align="center">Veritas in codice</h3>
 
 - 🔭 We´re currently working on [BigBlogify](https://github.com/BigNodes/uap-blog)
 - ⚡ Fun fact **Floppa**
